@@ -1,0 +1,28 @@
+
+.box-2 {
+  position: relative;
+  top: 198px;
+
+  display: block;
+  margin: 0 auto;
+
+  width: 369px;
+  height: 162px;
+}
+
+.box-2-texto {
+  position: absolute;
+  top: 336px;
+  left: calc((100% - 331px) / 2);
+
+  margin-top: 0;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #FFFFFF;
+  text-shadow: 10px 10px 16px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,15 @@
+
+body,
+html {
+  padding: 0;
+  margin: 0;
+}
+
+.main-container {
+  position: relative;
+
+  height: 1565px;
+  width: 100%;
+}
+
+
